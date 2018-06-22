@@ -1,5 +1,13 @@
 # sentry-dojo
 
-Setup Sentry on your computer : 
-[Here](https://gist.github.com/denji/b801f19d95b7d7910982c22bb1478f96)
+# Intro
+Error tracking in front end is alway missed and we lose critical information about error on our application.
+I would like to show how we use Sentry to prevent this problematic simply and efficiently 
 
+# Install Sentry
+Setup Sentry on your computer : 
+[Here](https://github.com/getsentry/onpremise)
+
+# A Front end project  
+Second step clone this VueJs Project
+[vue-hackernews](https://github.com/vuejs/vue-hackernews)
