@@ -1,6 +1,6 @@
 # sentry-dojo
 
-#Requirement For the DOJO
+# Requirement For the DOJO
 
 Docker / Docker-Compose
 
